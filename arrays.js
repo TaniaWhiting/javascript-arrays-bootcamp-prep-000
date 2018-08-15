@@ -42,16 +42,15 @@ function destructivelyRemoveElementFromEndOfArray(chocolateBars){
   
 function removeElementFromEndOfArray(chocolateBars){
   return chocolateBars.slice(0,chocolateBars.length - 1);
-
-  
-  
-  
-
-
-https://learn.co/tracks/bootcamp-prep/javascript-fundamentals/data-structures/javascript-arrays#
-
-  
-  
-  
-  
 }
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
